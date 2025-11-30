@@ -15,11 +15,11 @@ You can find me here:
 - **10-K QA Chatbot**  
   A Python-based system that extracts, cleans, chunks, embeds, and retrieves 10-K files so users can ask questions about financial statements.  
   **Tech:** Python, PDFplumber, sentence-transformers, vector DB  
-  **Repo:** [Link](URL)
+  **Repo:** [find project](https://github.com/LauraC-4882/DS_project.git)
 
 
 ### 🌐 Web Development
 - **NYC Popup Events Website**  
   A full-stack website that lists local pop-up events with ticketing, search, JS validation, and PHP backend.  
   **Tech:** HTML, CSS, JS, PHP, MySQL  
-  **Repo:** [Link](URL)
+  **Repo:** [my web](https://i6.cims.nyu.edu/~xl4366/webdev/index.html)
