@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Jason Lin 👋
 
-<!--
-**xl4366-wq/xl4366-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A data science student at NYU who enjoys building practical projects that connect data, cloud systems, and real-world problems. My background mixes data science, software development, and a bit of entrepreneurship from running my own small business. I usually learn by building something end-to-end, and most of my projects come from things I want to fix or understand in real life.
 
-Here are some ideas to get you started:
+You can find me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [my linkedin](www.linkedin.com/in/xiaolong-lin-706ba8355)
+- **Email:** xl4366@nyu.edu & jasonlin040326@gmail.com
+
+---
+
+## Projects
+
+### 🧠 Data & AI
+- **10-K QA Chatbot**  
+  A Python-based system that extracts, cleans, chunks, embeds, and retrieves 10-K files so users can ask questions about financial statements.  
+  **Tech:** Python, PDFplumber, sentence-transformers, vector DB  
+  **Repo:** [Link](URL)
+
+
+### 🌐 Web Development
+- **NYC Popup Events Website**  
+  A full-stack website that lists local pop-up events with ticketing, search, JS validation, and PHP backend.  
+  **Tech:** HTML, CSS, JS, PHP, MySQL  
+  **Repo:** [Link](URL)
