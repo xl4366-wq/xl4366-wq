@@ -28,7 +28,7 @@ Python system that extracts, cleans, chunks, embeds, and retrieves 10-K files so
 🎟 **NYC Popup Events Website**  
 A full-stack website for browsing and buying tickets to NYC pop-up events, with search, JS validation, and PHP backend.  
 **Tech:** HTML, CSS, JS, PHP, MySQL  
-🔗 **Repo:** [my web](https://github.com/xl4366-wq/webdev.git)<br/>
+🔗 **Repo:** [my web](https://github.com/xl4366-wq/PopUpEvent-Project.git)<br/>
 
 
 ## 💻 Tech Stack:
